@@ -26,7 +26,10 @@ p{
     line-height: 28px;
     font-family: "Muli";
     text-align: justify;
-    color: wheat;
+    color: white;
+}
+.abt-yos p{
+    font-size: 1.25rem;
 }
 h2{
     margin-bottom: 2rem;
